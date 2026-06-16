@@ -11,3 +11,6 @@ dependencies = [
     "pandas",
     "selenium",
 ]
+
+[tool.hatch.build.targets.wheel]
+packages = ["adserp"]
