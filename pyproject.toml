@@ -1,0 +1,9 @@
+[project]
+name = "AdSERP"
+version = "1.0.0"
+dependencies = [
+    "opencv-python",
+    "numpy",
+    "pandas",
+    "selenium",
+]
